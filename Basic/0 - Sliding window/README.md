@@ -9,9 +9,9 @@
 
 ## **经典题目：**
 
-Maximum Sum Subarray of Size K (easy)
+- [x] Maximum Sum Subarray of Size K (easy)
 
-Smallest Subarray with a given sum (easy)
+- [x] Smallest Subarray with a given sum (easy)
 
 Longest Substring with K Distinct Characters (medium)
 
