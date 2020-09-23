@@ -31,8 +31,7 @@ void findPair(int arr[], int n, int target) {
     // 左指针右移，右指针左移，止到左右指针相遇
     // 若左右的和大于target，则右指针左移，因为要让和变小，又因为数组是增序
     // 若左右的和小于target，则左指针右移，因为要让和变大，更接近target值
-    // 因为题目只会对应一个答案，所以不出现没有答案的情况
-    // 这里无所谓返回或输出错误
+    // 因为题目只会对应一个答案，所以不出现没有答案的情况，无所谓返回或输出错误
     while (low < high) {
         int sum = arr[low] + arr[high];
         if (sum == target) {
@@ -46,7 +45,7 @@ void findPair(int arr[], int n, int target) {
         else low++;
 
     }
-
+    // return -1;
 }
 
 // Driver code
