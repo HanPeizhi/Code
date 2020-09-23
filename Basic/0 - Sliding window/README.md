@@ -25,4 +25,6 @@ Longest Subarray with Ones after Replacement (hard)
 
 ## Reference：
 
-https://www.zhihu.com/question/36738189
+[1](https://www.zhihu.com/question/36738189) [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189)
+
+[2](https://www.cnblogs.com/huansky/p/13488234.html) [滑动窗口算法基本原理与实践](https://www.cnblogs.com/huansky/p/13488234.html)
