@@ -22,8 +22,6 @@
 
 
 
-
-
 ## Reference
 
 [1](https://www.techiedelight.com/find-pair-with-given-sum-array/)
