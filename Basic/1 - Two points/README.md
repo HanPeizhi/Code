@@ -11,9 +11,9 @@
 
 ## **经典题目：**
 
-Pair with Target Sum (easy)
+- [x] Pair with Target Sum (easy)
 
-Remove Duplicates (easy)
+- [x] Remove Duplicates (easy)
 
 Squaring a Sorted Array (easy)
 
