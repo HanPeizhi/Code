@@ -14,7 +14,7 @@
 
 ## 经典题目：
 
-LinkedList Cycle (easy)
+- [x] LinkedList Cycle (easy)
 
 Middle of the LinkedList (easy)
 
