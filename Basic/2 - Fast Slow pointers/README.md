@@ -16,7 +16,7 @@
 
 - [x] LinkedList Cycle (easy)
 
-Middle of the LinkedList (easy)
+- [x] Middle of the LinkedList (easy)
 
 Start of LinkedList Cycle (medium)
 
