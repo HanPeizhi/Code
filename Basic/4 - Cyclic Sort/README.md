@@ -20,6 +20,8 @@ Find all Duplicate Numbers (easy)
 
 [Cycle Sort](https://www.geeksforgeeks.org/cycle-sort/)
 
+[Cycle Sort O(N)](https://www.geeksforgeeks.org/sort-an-array-which-contain-1-to-n-values-in-on-using-cycle-sort/?ref=rp)
+
 [Leetcode 刷題 pattern - Cyclic Sort](https://blog.techbridge.cc/2020/02/16/leetcode-%E5%88%B7%E9%A1%8C-pattern-cyclic-sort/)
 
 https://www.zhihu.com/question/36738189
