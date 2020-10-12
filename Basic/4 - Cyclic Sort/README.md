@@ -4,7 +4,7 @@ Cyclic Sort，循环排序，圈排序
 
 咋鉴别这种模式？这些问题一般设计到排序好的数组，而且数值一般满足于一定的区间如果问题让你需要在排好序/翻转过的数组中，寻找丢失的/重复的/最小的元素经典题目：
 
-Cyclic Sort (easy)
+- [x] Cyclic Sort (easy)
 
 Find the Missing Number (easy)
 
