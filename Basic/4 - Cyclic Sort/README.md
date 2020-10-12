@@ -6,7 +6,7 @@ Cyclic Sort，循环排序，圈排序
 
 - [x] Cyclic Sort (easy)
 
-Find the Missing Number (easy)
+- [x] Find the Missing Number (easy)
 
 Find all Missing Numbers (easy)
 
