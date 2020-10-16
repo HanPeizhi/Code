@@ -15,7 +15,7 @@
 
 - [x] Remove Duplicates (easy)
 
-Squaring a Sorted Array (easy)
+- [x] Squaring a Sorted Array (easy)
 
 Triplet Sum to Zero (medium)
 
