@@ -86,6 +86,16 @@ else:
     print(Goal, ': NOT FIND!')  # if not find the goal state
 
 trace(closed, Start, Goal)
+
+
+'''
+============= RESTART: bfs.py =============
+Find The Goal!
+closed =  ['I', 'F', 'H', 'G', 'E', 'D', 'C', 'B', 'A']
+open =  []
+trace solution:  ['A', 'D', 'F', 'I']
+'''
+
 ~~~
 
 
