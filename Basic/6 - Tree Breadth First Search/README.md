@@ -94,7 +94,7 @@ trace(closed, Start, Goal)
 
 
 
-
+  
 
 -----
 
