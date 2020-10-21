@@ -2,7 +2,7 @@
 
 这里贴几张以前本科上课的PPT：
 
-![bfs0](/README_PIC/bfs0.PNG)
+![bfs0](./README_PIC/bfs0.PNG)
 
 ![幻灯片49](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片49.PNG)
 
