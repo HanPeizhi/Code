@@ -1,6 +1,92 @@
 ## 7. Pattern: Tree Breadth First Search，**树上的BFS**
 
-![image-20201020192051892](C:\Users\hanpe\AppData\Roaming\Typora\typora-user-images\image-20201020192051892.png)
+这里贴几张以前本科上课的PPT：
+
+![幻灯片48](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片48.PNG)
+
+![幻灯片49](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片49.PNG)
+
+![幻灯片50](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片50.PNG)
+
+![幻灯片51](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片51.PNG)
+
+再附上我当时的作业实现上面的算法的代码：
+
+~~~python
+# Peizhi Han
+# CS320 A#2
+# 2017/10/23
+# Python code:
+# Function breadth_first_search algorithm
+
+import sys
+
+graph = {
+    'A': ['B', 'C', 'D'],
+    'B': ['E'],
+    'C': ['G', 'H'],
+    'D': ['F'],
+    'E': ['F', 'G'],
+    'F': ['I'],
+    'G': [],
+    'H': [],
+    'I': []
+}
+
+
+# function breadth_first_search
+def bfs(graph, start, goal):  # begin
+    global opened
+    global closed
+    opened = [start]
+    closed = []
+    while len(opened) != 0:		# while open != [] do
+        X = opened.pop(0)		# remove leftmost state from open, call it X
+        if X == goal:  			# if X is a goal then return SUCCESS
+            closed.insert(0, X)
+            return True
+        else:  # else
+            closed.insert(0, X)  # put X on closed
+            chil = graph[X]  	# generate children of X
+            tmp = []
+            # the children of X if is not already
+            for elemt in chil:		# on open or closed
+                if not (elemt in opened) and not (elemt in closed):
+                    tmp.append(elemt)
+            opened += tmp 		 # put remaining children on right end of open
+    return False  				# bfs => opened += tmp
+
+
+# trace the solution,
+# this alg is not good as dfs,
+# because of the efficiency,
+# but can do good as dfs, same result
+def trace(closed, start, goal):
+    sol = [goal]
+    tmp = goal
+    while not(tmp == start):
+        for k,v in graph.items():
+            if tmp in closed:
+                if tmp in v:
+                    tmp = k
+                    sol.append(k)
+                    break
+    sol.reverse()
+    print('trace solution: ', sol)
+
+
+# main():
+Start = 'A'  # set the start state
+Goal = 'I'  # set the goal to search
+
+if bfs(graph, Start, Goal):  # if find the goal state
+    print('Find The Goal!\nclosed = ', closed)
+    print('open = ', opened)
+else:
+    print(Goal, ': NOT FIND!')  # if not find the goal state
+
+trace(closed, Start, Goal)
+~~~
 
 
 
@@ -9,6 +95,8 @@
 
 
 
+
+-----
 
 
 
