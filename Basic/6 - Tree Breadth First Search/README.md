@@ -2,7 +2,7 @@
 
 这里贴几张以前本科上课的PPT：
 
-![幻灯片48](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片48.PNG)
+![bfs0](README_PIC\bfs0.PNG)
 
 ![幻灯片49](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片49.PNG)
 
@@ -112,7 +112,7 @@ trace(closed, Start, Goal)
 
 **经典题目：**
 
-Binary Tree Level Order Traversal (easy)
+Binary Tree Level Order Traversal (medium)
 
 Reverse Level Order Traversal (easy)
 
