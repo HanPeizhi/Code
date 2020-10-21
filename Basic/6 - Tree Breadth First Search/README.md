@@ -35,7 +35,7 @@ graph = {
 
 
 # function breadth_first_search
-def bfs(graph, start, goal):  # begin
+def bfs(graph, start, goal):		# begin
     global opened
     global closed
     opened = [start]
