@@ -4,11 +4,11 @@
 
 ![bfs0](./README_PIC/bfs0.PNG)
 
-![幻灯片49](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片49.PNG)
+![bfs1](./README_PIC/bfs1.PNG)
 
-![幻灯片50](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片50.PNG)
+![bfs2](./README_PIC/bfs2.PNG)
 
-![幻灯片51](C:\Users\hanpe\Documents\GitHub\Code\Basic\6 - Tree Breadth First Search\README_PIC\幻灯片51.PNG)
+![bfs3](./README_PIC/bfs3.PNG)
 
 再附上我当时的作业实现上面的算法的代码：
 
