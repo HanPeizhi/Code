@@ -46,15 +46,15 @@ def bfs(graph, start, goal):  # begin
             closed.insert(0, X)
             return True
         else:  # else
-            closed.insert(0, X)  # put X on closed
-            chil = graph[X]  	# generate children of X
+            closed.insert(0, X)		# put X on closed
+            chil = graph[X]		# generate children of X
             tmp = []
             # the children of X if is not already
             for elemt in chil:		# on open or closed
                 if not (elemt in opened) and not (elemt in closed):
                     tmp.append(elemt)
-            opened += tmp 		 # put remaining children on right end of open
-    return False  				# bfs => opened += tmp
+            opened += tmp		# put remaining children on right end of open
+    return False		# bfs => opened += tmp
 
 
 # trace the solution,
