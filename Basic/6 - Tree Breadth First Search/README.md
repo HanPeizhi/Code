@@ -54,7 +54,7 @@ def bfs(graph, start, goal):  # begin
                 if not (elemt in opened) and not (elemt in closed):
                     tmp.append(elemt)
             opened += tmp		# put remaining children on right end of open
-    return False		# bfs => opened += tmp
+    return False			# bfs => opened += tmp
 
 
 # trace the solution,
