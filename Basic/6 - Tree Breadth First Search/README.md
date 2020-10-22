@@ -122,16 +122,16 @@ trace solution:  ['A', 'D', 'F', 'I']
 
 **经典题目：**
 
-Binary Tree Level Order Traversal (medium)
+- [x] Binary Tree Level Order Traversal (easy)
 
 Reverse Level Order Traversal (easy)
-
-Zigzag Traversal (medium)
 
 Level Averages in a Binary Tree (easy)
 
 Minimum Depth of a Binary Tree (easy)
 
 Level Order Successor (easy)
+
+Zigzag Traversal (medium)
 
 Connect Level Order Siblings (medium)
