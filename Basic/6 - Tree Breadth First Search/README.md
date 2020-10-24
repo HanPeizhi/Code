@@ -126,7 +126,7 @@ trace solution:  ['A', 'D', 'F', 'I']
 
 - [x] Reverse Level Order Traversal (easy)
 
-Level Averages in a Binary Tree (easy)
+- [x] Level Averages in a Binary Tree (easy)
 
 Minimum Depth of a Binary Tree (easy)
 
