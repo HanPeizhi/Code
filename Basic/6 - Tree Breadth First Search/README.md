@@ -123,12 +123,9 @@ trace solution:  ['A', 'D', 'F', 'I']
 **经典题目：**
 
 - [x] Binary Tree Level Order Traversal (easy)
-
 - [x] Reverse Level Order Traversal (easy)
-
 - [x] Level Averages in a Binary Tree (easy)
-
-Minimum Depth of a Binary Tree (easy)
+- [x] Minimum Depth of a Binary Tree (easy)
 
 Level Order Successor (easy)
 
