@@ -19,13 +19,10 @@
 当你听到重叠区间的时候
 经典题目：
 
-Merge Intervals (medium)
-
-Insert Interval (medium)
-
-Intervals Intersection (medium)
-
-Conflicting Appointments (medium)
+- [x] Merge Intervals (medium)
+- [ ] Insert Interval (medium)
+- [ ] Intervals Intersection (medium)
+- [ ] Conflicting Appointments (medium)
 
 ## Reference
 
