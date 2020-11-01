@@ -15,12 +15,9 @@
 ## 经典题目：
 
 - [x] LinkedList Cycle (easy)
-
 - [x] Middle of the LinkedList (easy)
-
-Start of LinkedList Cycle (medium)
-
-Happy Number (medium)
+- [ ] Start of LinkedList Cycle (medium)
+- [ ] Happy Number (medium)
 
 ## Reference
 
