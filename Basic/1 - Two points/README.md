@@ -12,20 +12,13 @@
 ## **经典题目：**
 
 - [x] Pair with Target Sum (easy)
-
 - [x] Remove Duplicates (easy)
-
 - [x] Squaring a Sorted Array (easy)
-
-Triplet Sum to Zero (medium)
-
-Triplet Sum Close to Target (medium)
-
-Triplets with Smaller Sum (medium)
-
-Subarrays with Product Less than a Target (medium)
-
-Dutch National Flag Problem (medium)
+- [ ] Triplet Sum to Zero (medium)
+- [ ] Triplet Sum Close to Target (medium)
+- [ ] Triplets with Smaller Sum (medium)
+- [ ] Subarrays with Product Less than a Target (medium)
+- [ ] Dutch National Flag Problem (medium)
 
 ## Reference
 
