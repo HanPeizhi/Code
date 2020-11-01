@@ -8,11 +8,9 @@
 
 咱们怎么去甄别这种模式呢？如果你被问到需要去翻转链表，要求不能使用额外空间的时候经典题目：
 
-Reverse a LinkedList (easy)
-
-Reverse a Sub-list (medium)
-
-Reverse every K-element Sub-list (medium)
+- [x] Reverse a LinkedList (easy)
+- [ ] Reverse a Sub-list (medium)
+- [ ] Reverse every K-element Sub-list (medium)
 
 ## Reference
 
