@@ -2,15 +2,15 @@
 
 
 
-![dfs0](.\README_PIC\dfs0.PNG)
+![dfs0](./README_PIC/dfs0.PNG)
 
-![dfs1](.\README_PIC\dfs1.PNG)
+![dfs1](./README_PIC/dfs1.PNG)
 
-![dfs2](.\README_PIC\dfs2.PNG)
+![dfs2](./README_PIC/dfs2.PNG)
 
-![dfs3](.\README_PIC\dfs3.PNG)
+![dfs3](./README_PIC/dfs3.PNG)
 
-![dfs4](.\README_PIC\dfs4.PNG)
+![dfs4](./README_PIC/dfs4.PNG)
 
 
 
