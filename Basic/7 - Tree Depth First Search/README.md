@@ -16,7 +16,7 @@
 
 **经典题目：**
 
-- [ ] Binary Tree Path Sum (easy)
+- [x] Binary Tree Path Sum (easy)
 
 - [ ] All Paths for a Sum (medium)
 
